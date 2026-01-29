@@ -4,4 +4,6 @@ title: "Yijia Lyu's Data Analysis website"
 
 This is a Quarto website.
 
+![](nba_divisions_grid.png)
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
